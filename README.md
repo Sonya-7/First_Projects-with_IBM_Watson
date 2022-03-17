@@ -1,2 +1,4 @@
 # Starter_Projects
-First projects completed independently after completing IBM Python fundamentals
+This repository contains a list of my First projects completed while completing the IBM Python fundamentals certification.
+
+These projects were completed using IBM Watson studeos.
